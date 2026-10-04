@@ -1,0 +1,73 @@
+- generic [active] [ref=e1]:
+  - main [ref=e2]:
+    - region "心动答案表" [ref=e3]:
+      - generic [ref=e4]:
+        - img "DM梦时" [ref=e5]
+        - generic [ref=e6]:
+          - generic [ref=e7]: ✦
+          - heading "最喜欢的一句话" [level=1] [ref=e8]
+          - generic [ref=e9]: ✦
+      - generic [ref=e10]:
+        - article [ref=e11]:
+          - heading "男生角色" [level=2] [ref=e12]
+          - table [ref=e13]:
+            - rowgroup [ref=e14]:
+              - row "名字 最喜欢的一句话" [ref=e15]:
+                - columnheader "名字" [ref=e16]
+                - columnheader "最喜欢的一句话" [ref=e17]
+            - rowgroup [ref=e18]:
+              - row "顾星辰" [ref=e19]:
+                - rowheader "顾星辰" [ref=e20]
+                - cell [ref=e21]:
+                  - textbox "顾星辰最喜欢的一句话" [ref=e22]:
+                    - /placeholder: 在这里填写喜欢的一句话
+              - row "江叙白" [ref=e23]:
+                - rowheader "江叙白" [ref=e24]
+                - cell [ref=e25]:
+                  - textbox "江叙白最喜欢的一句话" [ref=e26]:
+                    - /placeholder: 在这里填写喜欢的一句话
+              - row "秋亦帆" [ref=e27]:
+                - rowheader "秋亦帆" [ref=e28]
+                - cell [ref=e29]:
+                  - textbox "秋亦帆最喜欢的一句话" [ref=e30]:
+                    - /placeholder: 在这里填写喜欢的一句话
+              - row "林泽宇" [ref=e31]:
+                - rowheader "林泽宇" [ref=e32]
+                - cell [ref=e33]:
+                  - textbox "林泽宇最喜欢的一句话" [ref=e34]:
+                    - /placeholder: 在这里填写喜欢的一句话
+        - article [ref=e35]:
+          - heading "女生角色" [level=2] [ref=e36]
+          - table [ref=e37]:
+            - rowgroup [ref=e38]:
+              - row "名字 最喜欢的一句话" [ref=e39]:
+                - columnheader "名字" [ref=e40]
+                - columnheader "最喜欢的一句话" [ref=e41]
+            - rowgroup [ref=e42]:
+              - row "苏晚晴" [ref=e43]:
+                - rowheader "苏晚晴" [ref=e44]
+                - cell [ref=e45]:
+                  - textbox "苏晚晴最喜欢的一句话" [ref=e46]:
+                    - /placeholder: 在这里填写喜欢的一句话
+              - row "夏知柚" [ref=e47]:
+                - rowheader "夏知柚" [ref=e48]
+                - cell [ref=e49]:
+                  - textbox "夏知柚最喜欢的一句话" [ref=e50]:
+                    - /placeholder: 在这里填写喜欢的一句话
+              - row "许星眠" [ref=e51]:
+                - rowheader "许星眠" [ref=e52]
+                - cell [ref=e53]:
+                  - textbox "许星眠最喜欢的一句话" [ref=e54]:
+                    - /placeholder: 在这里填写喜欢的一句话
+              - row "温以宁" [ref=e55]:
+                - rowheader "温以宁" [ref=e56]
+                - cell [ref=e57]:
+                  - textbox "温以宁最喜欢的一句话" [ref=e58]:
+                    - /placeholder: 在这里填写喜欢的一句话
+      - generic [ref=e61]: 记录每一句喜欢
+    - region "操作区" [ref=e63]:
+      - button "打乱名字" [ref=e64] [cursor=pointer]
+      - button "清空内容" [ref=e65] [cursor=pointer]
+      - button "导出完整图片" [ref=e66] [cursor=pointer]
+      - button "隐藏名字后导出" [ref=e67] [cursor=pointer]
+  - status

@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#f8eeee">
+  <title>梦时 · 心动答案表</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <main class="app-shell">
+    <section class="poster" id="poster" aria-label="心动答案表">
+      <header class="hero">
+        <img class="brand-mark" src="logo.png" alt="DM梦时">
+        <div class="title-wrap">
+          <span class="title-ornament" aria-hidden="true">✦</span>
+          <h1 id="quoteTitle" class="quote-title">最喜欢的一句话</h1>
+          <span class="title-ornament" aria-hidden="true">✦</span>
+        </div>
+      </header>
+
+      <div class="tables" id="tables"></div>
+
+      <footer class="poster-footer" aria-hidden="true">
+        <span></span><b>记录每一句喜欢</b><span></span>
+      </footer>
+    </section>
+    <section class="controls" aria-label="操作区">
+      <button class="button button-soft" id="shuffleBtn" type="button">
+        打乱名字
+      </button>
+      <button class="button button-soft" id="clearBtn" type="button">清空内容</button>
+      <button class="button button-primary" id="exportBtn" type="button">导出完整图片</button>
+      <button class="button button-outline" id="exportHiddenBtn" type="button">隐藏名字后导出</button>
+    </section>
+  </main>
+  <div class="toast" id="toast" role="status" aria-live="polite"></div>
+  <script src="app.js"></script>
+</body>
+</html>

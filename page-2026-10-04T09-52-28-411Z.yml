@@ -1,0 +1,152 @@
+- generic [active] [ref=e1]:
+  - main [ref=e2]:
+    - region "心动答案表" [ref=e3]:
+      - generic [ref=e4]:
+        - img "DM梦时" [ref=e5]
+        - generic [ref=e6]:
+          - generic [ref=e7]: ✦
+          - heading "可编辑标题" [level=1] [ref=e8]: 心之所向，素履以往
+          - generic [ref=e9]: ✦
+        - paragraph [ref=e10]: 轻触标题即可修改
+      - generic [ref=e11]:
+        - article [ref=e12]:
+          - heading "男生回答" [level=2] [ref=e13]
+          - table [ref=e14]:
+            - rowgroup [ref=e15]:
+              - row "名字 苏晚晴 夏知柚 许星眠 温以宁" [ref=e16]:
+                - columnheader "名字" [ref=e17]
+                - columnheader "苏晚晴" [ref=e18]
+                - columnheader "夏知柚" [ref=e19]
+                - columnheader "许星眠" [ref=e20]
+                - columnheader "温以宁" [ref=e21]
+            - rowgroup [ref=e22]:
+              - row "顾星辰" [ref=e23]:
+                - rowheader "顾星辰" [ref=e24]
+                - cell [ref=e25]:
+                  - textbox "顾星辰与苏晚晴的答案" [ref=e26]:
+                    - /placeholder: 填写
+                - cell [ref=e27]:
+                  - textbox "顾星辰与夏知柚的答案" [ref=e28]:
+                    - /placeholder: 填写
+                - cell [ref=e29]:
+                  - textbox "顾星辰与许星眠的答案" [ref=e30]:
+                    - /placeholder: 填写
+                - cell [ref=e31]:
+                  - textbox "顾星辰与温以宁的答案" [ref=e32]:
+                    - /placeholder: 填写
+              - row "江叙白" [ref=e33]:
+                - rowheader "江叙白" [ref=e34]
+                - cell [ref=e35]:
+                  - textbox "江叙白与苏晚晴的答案" [ref=e36]:
+                    - /placeholder: 填写
+                - cell [ref=e37]:
+                  - textbox "江叙白与夏知柚的答案" [ref=e38]:
+                    - /placeholder: 填写
+                - cell [ref=e39]:
+                  - textbox "江叙白与许星眠的答案" [ref=e40]:
+                    - /placeholder: 填写
+                - cell [ref=e41]:
+                  - textbox "江叙白与温以宁的答案" [ref=e42]:
+                    - /placeholder: 填写
+              - row "秋亦帆" [ref=e43]:
+                - rowheader "秋亦帆" [ref=e44]
+                - cell [ref=e45]:
+                  - textbox "秋亦帆与苏晚晴的答案" [ref=e46]:
+                    - /placeholder: 填写
+                - cell [ref=e47]:
+                  - textbox "秋亦帆与夏知柚的答案" [ref=e48]:
+                    - /placeholder: 填写
+                - cell [ref=e49]:
+                  - textbox "秋亦帆与许星眠的答案" [ref=e50]:
+                    - /placeholder: 填写
+                - cell [ref=e51]:
+                  - textbox "秋亦帆与温以宁的答案" [ref=e52]:
+                    - /placeholder: 填写
+              - row "林泽宇" [ref=e53]:
+                - rowheader "林泽宇" [ref=e54]
+                - cell [ref=e55]:
+                  - textbox "林泽宇与苏晚晴的答案" [ref=e56]:
+                    - /placeholder: 填写
+                - cell [ref=e57]:
+                  - textbox "林泽宇与夏知柚的答案" [ref=e58]:
+                    - /placeholder: 填写
+                - cell [ref=e59]:
+                  - textbox "林泽宇与许星眠的答案" [ref=e60]:
+                    - /placeholder: 填写
+                - cell [ref=e61]:
+                  - textbox "林泽宇与温以宁的答案" [ref=e62]:
+                    - /placeholder: 填写
+        - article [ref=e63]:
+          - heading "女生回答" [level=2] [ref=e64]
+          - table [ref=e65]:
+            - rowgroup [ref=e66]:
+              - row "名字 顾星辰 江叙白 秋亦帆 林泽宇" [ref=e67]:
+                - columnheader "名字" [ref=e68]
+                - columnheader "顾星辰" [ref=e69]
+                - columnheader "江叙白" [ref=e70]
+                - columnheader "秋亦帆" [ref=e71]
+                - columnheader "林泽宇" [ref=e72]
+            - rowgroup [ref=e73]:
+              - row "苏晚晴" [ref=e74]:
+                - rowheader "苏晚晴" [ref=e75]
+                - cell [ref=e76]:
+                  - textbox "苏晚晴与顾星辰的答案" [ref=e77]:
+                    - /placeholder: 填写
+                - cell [ref=e78]:
+                  - textbox "苏晚晴与江叙白的答案" [ref=e79]:
+                    - /placeholder: 填写
+                - cell [ref=e80]:
+                  - textbox "苏晚晴与秋亦帆的答案" [ref=e81]:
+                    - /placeholder: 填写
+                - cell [ref=e82]:
+                  - textbox "苏晚晴与林泽宇的答案" [ref=e83]:
+                    - /placeholder: 填写
+              - row "夏知柚" [ref=e84]:
+                - rowheader "夏知柚" [ref=e85]
+                - cell [ref=e86]:
+                  - textbox "夏知柚与顾星辰的答案" [ref=e87]:
+                    - /placeholder: 填写
+                - cell [ref=e88]:
+                  - textbox "夏知柚与江叙白的答案" [ref=e89]:
+                    - /placeholder: 填写
+                - cell [ref=e90]:
+                  - textbox "夏知柚与秋亦帆的答案" [ref=e91]:
+                    - /placeholder: 填写
+                - cell [ref=e92]:
+                  - textbox "夏知柚与林泽宇的答案" [ref=e93]:
+                    - /placeholder: 填写
+              - row "许星眠" [ref=e94]:
+                - rowheader "许星眠" [ref=e95]
+                - cell [ref=e96]:
+                  - textbox "许星眠与顾星辰的答案" [ref=e97]:
+                    - /placeholder: 填写
+                - cell [ref=e98]:
+                  - textbox "许星眠与江叙白的答案" [ref=e99]:
+                    - /placeholder: 填写
+                - cell [ref=e100]:
+                  - textbox "许星眠与秋亦帆的答案" [ref=e101]:
+                    - /placeholder: 填写
+                - cell [ref=e102]:
+                  - textbox "许星眠与林泽宇的答案" [ref=e103]:
+                    - /placeholder: 填写
+              - row "温以宁" [ref=e104]:
+                - rowheader "温以宁" [ref=e105]
+                - cell [ref=e106]:
+                  - textbox "温以宁与顾星辰的答案" [ref=e107]:
+                    - /placeholder: 填写
+                - cell [ref=e108]:
+                  - textbox "温以宁与江叙白的答案" [ref=e109]:
+                    - /placeholder: 填写
+                - cell [ref=e110]:
+                  - textbox "温以宁与秋亦帆的答案" [ref=e111]:
+                    - /placeholder: 填写
+                - cell [ref=e112]:
+                  - textbox "温以宁与林泽宇的答案" [ref=e113]:
+                    - /placeholder: 填写
+      - generic [ref=e116]: 记录每一次心动
+    - region "操作区" [ref=e118]:
+      - button "打乱名字" [ref=e119] [cursor=pointer]
+      - button "清空内容" [ref=e120] [cursor=pointer]
+      - button "导出完整图片" [ref=e121] [cursor=pointer]
+      - button "隐藏名字后导出" [ref=e122] [cursor=pointer]
+  - status
